@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Anoir 👋
 
-<!--
-**anoir-jankowski/anoir-jankowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Future Computer Science student with a focus on AI, security, and building real-world systems.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Preparing for a Computer Science degree (Baden-Württemberg)
+- Building a strong foundation in JavaScript
+- Learning how to think like a problem solver
+
+
+## Skills (in progress)
+
+- HTML, CSS
+- JavaScript (DOM, Events, LocalStorage, APIs)
+- Git & GitHub
+- Problem solving & debugging
+
+
+## Projects
+
+-  Todo App  
+  → Task management with LocalStorage and dynamic UI
+
+-  Weather App  
+  → Fetching real-time data from an API
+
+-  Calculator  
+  → Handling user input and mathematical logic
+
+-  HTML & CSS Foundations  
+  → First structured web project
+
+
+## Goals
+
+- Building a strong technical foundation  
+- Studying Computer Science   
+- Specializing in AI & Security   
+- Building my own tech company in the future
+
+
+## Mindset
+
+Focused on discipline, consistency, and long-term growth.
+
+
+## Contact
+
+- GitHub: https://github.com/anoir-jankowski
