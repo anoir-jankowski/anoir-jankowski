@@ -1,51 +1,40 @@
-# Hi, I'm Anoir 👋
+# Hi, I'm Anoir
 
-Future Computer Science student with a focus on AI, security, and building real-world systems.
+I'm a Computer Science student at **Karlsruhe University of Applied Sciences (HKA)** in Germany.
 
+I'm currently building a strong foundation in programming, software development, and core computer science concepts through my studies and personal projects.
 
-## Current Focus
+## Currently Learning
 
-- Preparing for a Computer Science degree (Baden-Württemberg)
-- Building a strong foundation in JavaScript
-- Learning how to think like a problem solver
+- **Java:** Programming fundamentals and object-oriented programming
+- **Computer Science:** Mathematics, theoretical and technical foundations
+- **Development Tools:** Git, GitHub, and basic development workflows
 
-
-## Skills (in progress)
-
-- HTML, CSS
-- JavaScript (DOM, Events, LocalStorage, APIs)
-- Git & GitHub
-- Problem solving & debugging
-
+I also have experience with **HTML, CSS, and JavaScript** from personal projects I built before university.
 
 ## Projects
 
--  Todo App  
-  → Task management with LocalStorage and dynamic UI
+### [Java Study Manager](https://github.com/anoir-jankowski/java-study-manager) — In Progress
+My first independent Java project, focused on practicing classes, objects, and basic application structure.
 
--  Weather App  
-  → Fetching real-time data from an API
+### [Todo App](https://github.com/anoir-jankowski/todo-app)
+A simple JavaScript application for adding, completing, and deleting tasks, with browser-based local storage.
 
--  Calculator  
-  → Handling user input and mathematical logic
+### [Weather App](https://github.com/anoir-jankowski/weather-app)
+A JavaScript weather application that retrieves weather data using the Open-Meteo API.
 
--  HTML & CSS Foundations  
-  → First structured web project
+### [JavaScript Calculator](https://github.com/anoir-jankowski/javascript-calculator)
+A basic calculator built to practice JavaScript logic, event handling, and DOM manipulation.
 
+### [HTML & CSS Foundations](https://github.com/anoir-jankowski/foundations-html-css)
+My first web development project, focused on HTML structure, forms, and CSS styling.
 
-## Goals
+## Long-Term Interests
 
-- Building a strong technical foundation  
-- Studying Computer Science   
-- Specializing in AI & Security   
-- Building my own tech company in the future
+I'm particularly interested in **software engineering, artificial intelligence, and machine learning**.
 
+My goal is to develop strong technical skills and eventually work on AI-powered software that solves real-world problems.
 
-## Mindset
+---
 
-Focused on discipline, consistency, and long-term growth.
-
-
-## Contact
-
-- GitHub: https://github.com/anoir-jankowski
+*Continuously learning and building.*
